@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page!!
 
-You can use the [editor on GitHub](https://github.com/sthorley27/sthorley27.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Theres nothing to see here yet but be sure to check back in the future to see my work and progress!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
