@@ -17,3 +17,4 @@ You can find my High School Resume here. It shows some of my past work, as well 
 
 
 ![](images/umassicon.png)
+
