@@ -13,6 +13,8 @@ Since i am only in my first semester, i don't have much to show in terms of proj
 ### High School work
 You can find my High School Resume here. It shows some of my past work, as well as achivements and Jobs.
 
+[Link to my High School Resume!](https://docs.google.com/document/d/1JvG4aADz60jBfUQTHax-ootoyDarv3OQLWseobKsb4g/edit?usp=sharing)
+
 ```markdown
 Syntax highlighted code block
 
