@@ -2,11 +2,16 @@
 
 Theres nothing to see here yet but be sure to check back in the future to see my work and progress!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me:
+Hello! My name is Scott Thorley, i am curently a freshman at the University of Massachussetts, Amherst, studying Kinesiology.
 
-### Markdown
+### College Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since i am only in my first semester, i don't have much to show in terms of projects or research, but make sure to check back in the future for some of my upcoming work and studies!
+
+
+### High School work
+You can find my High School Resume here. It shows some of my past work, as well as achivements and Jobs.
 
 ```markdown
 Syntax highlighted code block
