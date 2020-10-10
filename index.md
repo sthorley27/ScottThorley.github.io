@@ -1,9 +1,9 @@
-## Welcome to my page!!
+## **Welcome to my page!!**
 
 Theres nothing to see here yet but be sure to check back in the future to see my work and progress!
 
 ## About me:
-Hello! My name is Scott Thorley, i am curently a freshman at the University of Massachussetts, Amherst, studying Kinesiology.
+Hello! My name is Scott Thorley, i am curently a freshman at the University of Massachussetts, Amherst, studying *Kinesiology.*
 
 ### College Work
 
