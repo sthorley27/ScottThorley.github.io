@@ -16,5 +16,5 @@ You can find my High School Resume here. It shows some of my past work, as well 
 [Link to my High School Resume!](https://docs.google.com/document/d/1JvG4aADz60jBfUQTHax-ootoyDarv3OQLWseobKsb4g/edit?usp=sharing)
 
 
-![umass icon]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonape.com%2Fumass-amherst-athletics-logo-logo-icon-svg-png.html&psig=AOvVaw17jMa9mXDXwQS5SsAEfVkO&ust=1602381960938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjMvo74qOwCFQAAAAAdAAAAABAI)
+![image of Umass icon]
+(https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F113.png)
