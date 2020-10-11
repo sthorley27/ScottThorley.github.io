@@ -16,6 +16,4 @@ You can find my High School Resume here. It shows some of my past work, as well 
 [Link to my High School Resume!](https://docs.google.com/document/d/1JvG4aADz60jBfUQTHax-ootoyDarv3OQLWseobKsb4g/edit?usp=sharing)
 
 
-![image of UMass icon]
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fa3.espncdn.com%2Fcombiner%2Fi%3Fimg%3D%252Fi%252Fteamlogos%252Fncaa%252F500%252F113.png&imgrefurl=https%3A%2F%2Fwww.espn.com%2Fcollege-football%2Fteam%2F_%2Fid%2F113%2Fumass-minutemen&tbnid=YgEsnE9cUHRQtM&vet=12ahUKEwicxPyo_ajsAhXucjABHRLpDw8QMygDegUIARCwAQ..i&docid=VqqVcgZbpspiSM&w=500&h=500&q=umass%20icon&ved=2ahUKEwicxPyo_ajsAhXucjABHRLpDw8QMygDegUIARCwAQ)
-
+![image of UMass icon](https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F113.png)
